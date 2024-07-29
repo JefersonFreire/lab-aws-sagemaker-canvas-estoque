@@ -41,20 +41,28 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
     </div>
 
 ### 3. Analisar
-
--   Após o treinamento, examine as métricas de performance do modelo.
--   Verifique as principais características que influenciam as previsões.
--   Faça ajustes no modelo se necessário e re-treine até obter um desempenho satisfatório.
-  
+ 
   <div align="center">
     <img src="https://github.com/user-attachments/assets/98062e09-41a1-45a2-9320-91c6216493c5"/>
   </div>
 
+  <p>O preço tem influência de 43,08% na variação do estoque.</p>
+  <p>Enquanto feriados influenciam 1,96%.</p>
+
 ### 4. Prever
 
--   Use o modelo treinado para fazer previsões de estoque.
--   Exporte os resultados e analise as previsões geradas.
--   Documente suas conclusões e qualquer insight obtido a partir das previsões.
+  <p>Item 6</p>
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/f8286a5f-1c67-4737-ab4f-265bae320084"/>
+    <img src="https://github.com/user-attachments/assets/f752b340-cd8a-43a2-8bda-114077ee752b"/>
+  </div>
+
+  <p>Item 16</p>
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/77e81d0d-c83d-4523-a18d-265dc330b16d"/>
+    <img src="https://github.com/user-attachments/assets/ae16ba6e-3f95-490d-81b5-597519b0d398"/>
+  </div>
+
 
 ## 🤔 Dúvidas?
 
